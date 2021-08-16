@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rishabh Sanghavi / Site Title"
+title                    : "Rishabh Sanghavi"
 title_separator          : "-"
 name                     : &name "Rishabh Sanghavi"
 description              : &description "Chemical Engineering PhD student at University of Washington"
@@ -57,12 +57,14 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : rishabhds19
 facebook:
   username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
+linkedin:
+  username               : https://www.linkedin.com/in/rishabh-sanghavi-43b002b7/
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -88,7 +90,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Rishabh-Sanghavi"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/rishabhsanghavi" #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "rishabhds19"
   vine             :
   weibo            :
   xing             :
