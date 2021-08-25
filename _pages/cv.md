@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **2020 |** B.S. in Chemical and Biomolecular Engineering, University of Illinois at Urbana-Champaign
-* **2026 (expected) |** Ph.D in Chemical Engineering, University of Washington
+* **2020|**  B.S. in Chemical and Biomolecular Engineering, University of Illinois at Urbana-Champaign
+* **2026 (expected)|**  Ph.D in Chemical Engineering, University of Washington
 
 Work experience
 ======
